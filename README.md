@@ -31,7 +31,7 @@ ROTEIRISTA PROFISSIONAL COM IA AVANÇADA:
 Integramos na ferramenta as principais inteligências artificiais para ajudar você a criar conteúdos emocionantes capazes de reter atenção do seu 
 público alvo do início ao fim do vídeo e gerar uma tonelada de comentários, e o melhor, você direciona o público se comenta negativamente ou positivamente.
 O diretor de arte é você e nossa IA integrada será sua artista preferida. 
-<img src"https://img001.prntscr.com/file/img001/cCGVAsw1THicFmirnXiAVw.png" />
+<img src="https://img001.prntscr.com/file/img001/cCGVAsw1THicFmirnXiAVw.png" />
 
 OBTENHA SUA LICENÇA HOJE: 
 <img src="https://img001.prntscr.com/file/img001/L9G81zbeQkObkqFP6DNnlA.png" />
