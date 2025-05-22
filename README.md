@@ -20,3 +20,19 @@ E não. Não adianta tentar baixar o SCRIPTVISION de graça nem versão crackead
 pois ela não existe e mesmo que alguém consiga crackear eu deleto a versão atual e crio uma nova.
 
 Então não tente bancar o expertinho, pois existe outro expertinho aqui a um passo na sua frente. 
+
+TELAS DA FERRAMENTA:
+<img src="https://img001.prntscr.com/file/img001/yyuyHp5ASlWs52gEAhh2pg.png" />
+
+Interface simples de usar, com todas as ferramentas de roteiro na palma da sua mão. Gerador de Roteiros com imagens prontas pra baixar e usar nos seus vídeos.
+Excelente para quem precisa criar conteúdo para canais darks e ganhar grana em dólar. 
+
+ROTEIRISTA PROFISSIONAL COM IA AVANÇADA:
+Integramos na ferramenta as principais inteligências artificiais para ajudar você a criar conteúdos emocionantes capazes de reter atenção do seu 
+público alvo do início ao fim do vídeo e gerar uma tonelada de comentários, e o melhor, você direciona o público se comenta negativamente ou positivamente.
+O diretor de arte é você e nossa IA integrada será sua artista preferida. 
+<img src"https://img001.prntscr.com/file/img001/cCGVAsw1THicFmirnXiAVw.png" />
+
+OBTENHA SUA LICENÇA HOJE: 
+<img src="https://img001.prntscr.com/file/img001/L9G81zbeQkObkqFP6DNnlA.png" />
+
