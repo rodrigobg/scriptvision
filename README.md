@@ -3,10 +3,10 @@ Crie roteiros incríveis com esta ferramenta capaz de transformar seu canal dark
 
 Com apenas um link de video, você consegue gerar roteiros em diversos nichos altamente rentáveis com roteiros impressionantes e imagens de altíssima qualidade. 
 
-https://raw.githubusercontent.com/rodrigobg/scriptvision/refs/heads/main/splash.png
+<img src="https://raw.githubusercontent.com/rodrigobg/scriptvision/refs/heads/main/splash.png" />
 
 LINK PARA DOWNLOAD:
-https://drive.google.com/file/d/1L_YO7tK3nqhJCuBEv1xq3B0c2fuUHNik/view?usp=drive_link
+<a href="https://drive.google.com/file/d/1L_YO7tK3nqhJCuBEv1xq3B0c2fuUHNik/view?usp=drive_link">BAIXAR AQUI</a>
 
 ATENÇÃO!!
 Este produto é original. Criado por mim, feito com as tecnologias mais recentes como html5 + javascript e apis. 
